@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnanil7&layout=compact" alt="sapnanil7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapnanil7&show_icons=true" alt="sapnanil7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sapnanil7&show_icons=true" alt="sapnanil7" /></p>
