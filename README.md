@@ -1,42 +1,45 @@
-<h1 align="center">Hi 👋, I'm Sapnanil Das</h1>
-<h3 align="center">I am hardworking and very enthusiastic about technology. I have experience of development in Java frameworks, android app development, and freelanced in web development. I have also worked in various Machine Learning hands-on projects.</h3>
+# 👋 Hey, I’m Sapnanil Das
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnanil7&label=Profile%20views&color=210eb4&style=plastic" alt="sapnanil7" /> </p>
+💻 **Cybersecurity Enthusiast | Full-Stack Developer | ML Explorer**  
+🔐 Passionate about building secure, scalable, and innovative solutions.
 
-- 🔭 I’m currently working on [Voice-Controlled-Chess](https://github.com/sapnanil7/Voice-Controlled-Chess)
+---
 
-- 👯 I’m looking to collaborate on [TDoC-Imperium](https://github.com/lugnitdgp/TDoC-Imperium)
+## 🚀 About Me
+- 🔭 Currently working on **[Voice-Controlled Chess](https://github.com/sapnanil7/Voice-Controlled-Chess)**  
+- 👯 Open to collaborate on **Security Engineering** & **Full-Stack Projects**  
+- 📚 Exploring **Application Security**, **Cloud Security**, and **Machine Learning**  
+- ✍️ Writing tech blogs on [Medium](https://medium.com/@codersden7)  
+- 📫 Reach me at **sapnanildas7@gmail.com**  
+- 🌐 Portfolio: [sapnanildas.tech](https://sapnanil.netlify.app)
 
-- 👨‍💻 All of my projects are available at [sapnanildas.tech](https://sapnanil.netlify.app/)
+---
 
-- 📝 I regulary write articles on [https://medium.com/@codersden7](https://medium.com/@codersden7)
+## 🛠 Tech Stack
+**Languages:** Java, Python, C++, JavaScript, Kotlin  
+**Frameworks & Tools:** Spring Boot, React, Django, Flask, Node.js  
+**Cybersecurity Tools:** Burp Suite, Wireshark, Nmap, TryHackMe Labs  
+**Cloud:** AWS, Azure, GCP  
+**Databases:** MySQL, MongoDB, Oracle  
+**Other Skills:** Android Development, Machine Learning, Git, Docker
 
-- 📫 How to reach me **sapnanildas7@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10JdocHoCPGz86xeogsXxnFmNmfZXlnMk/view](https://drive.google.com/file/d/10JdocHoCPGz86xeogsXxnFmNmfZXlnMk/view)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/sapnanildas1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sapnanildas1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sapnanil7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sapnanil7" height="30" width="40" /></a>
-<a href="https://kaggle.com/sapnanildas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="sapnanildas" height="30" width="40" /></a>
-<a href="https://instagram.com/sapnanil7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sapnanil7" height="30" width="40" /></a>
-<a href="https://medium.com/@codersden7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@codersden7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sapnanil das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sapnanil das" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sapnanil7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sapnanil7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sapnanildas7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sapnanildas7" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sapnanil7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sapnanil7" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sapnanil7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@sapnanil7" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sapnanil7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="sapnanil7" height="30" width="40" /></a>
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sapnanil7&show_icons=true&theme=radical" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnanil7&layout=compact&theme=radical" height="165">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnanil7&layout=compact" alt="sapnanil7" /></p>
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/sapnanil7)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white)](https://github.com/sapnanil7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=black)](https://leetcode.com/sapnanil7)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sapnanil7)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&logo=medium&logoColor=white)](https://medium.com/@codersden7)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sapnanil7&show_icons=true" alt="sapnanil7" /></p>
+---
+
+💡 *“The best way to predict the future is to create it.”*
