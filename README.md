@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [TDoC-Imperium](https://github.com/lugnitdgp/TDoC-Imperium)
 
-- 👨‍💻 All of my projects are available at [sapnanildas.tech](sapnanildas.tech)
+- 👨‍💻 All of my projects are available at [sapnanildas.tech](https://sapnanil.netlify.app/)
 
 - 📝 I regulary write articles on [https://medium.com/@codersden7](https://medium.com/@codersden7)
 
