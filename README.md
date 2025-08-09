@@ -24,7 +24,7 @@
 **Other Skills:** Android Development, Machine Learning, Git, Docker
 
 ---
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/905cc350-8e12-4c3f-8003-617698d9ba77/deploy-status)](https://app.netlify.com/projects/sapnanil/deploys)
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sapnanil7&show_icons=true&theme=radical" height="165">
