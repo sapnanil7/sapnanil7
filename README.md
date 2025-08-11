@@ -9,7 +9,7 @@
 - 🔭 Currently working on **[Voice-Controlled Chess](https://github.com/sapnanil7/Voice-Controlled-Chess)**  
 - 👯 Open to collaborate on **Security Engineering** & **Full-Stack Projects**  
 - 📚 Exploring **Application Security**, **Cloud Security**, and **Machine Learning**  
-- ✍️ Writing tech blogs on [Medium](https://medium.com/@codersden7)  
+- ✍️ Writing tech blogs on [Medium](https://medium.com/@infernoradar)  
 - 📫 Reach me at **sapnanildas7@gmail.com**  
 - 🌐 Portfolio: [sapnanildas.tech](https://sapnanil.netlify.app)
 
