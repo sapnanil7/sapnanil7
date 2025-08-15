@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **[PowerShell Security Projects](https://github.com/sapnanil7?tab=overview&from=2025-07-01&to=2025-07-31)**  
+- 🔭 Currently working on [PowerShell Security Projects]((https://github.com/sapnanil7/PowerShell-Security-Projects?tab=readme-ov-file#powershell-security-projects)
 - 👯 Open to collaborate on **Security Engineering** & **Full-Stack Projects**  
 - 📚 Exploring **Application Security**, **Cloud Security**, and **Machine Learning**  
 - ✍️ Writing tech blogs on [Medium](https://medium.com/@infernoradar)  
