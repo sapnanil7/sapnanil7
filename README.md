@@ -38,7 +38,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white)](https://github.com/sapnanil7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=black)](https://leetcode.com/sapnanil7)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sapnanil7)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&logo=medium&logoColor=white)]((https://medium.com/@infernoradar))
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&logo=medium&logoColor=white)](https://medium.com/@infernoradar)
 
 ---
 
