@@ -21,7 +21,7 @@
 **Cybersecurity Tools:** Burp Suite, Wireshark, Nmap, TryHackMe Labs  
 **Cloud:** AWS, Azure, GCP  
 **Databases:** MySQL, MongoDB, Oracle  
-**Other Skills:** Android Development, Machine Learning, Git, Docker
+**Other Skills:** Machine Learning, Git, Docker
 
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/905cc350-8e12-4c3f-8003-617698d9ba77/deploy-status)](https://app.netlify.com/projects/sapnanil/deploys)
