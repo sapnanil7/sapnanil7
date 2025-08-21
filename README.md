@@ -17,9 +17,9 @@
 
 ## 🛠 Tech Stack
 **Languages:** Java, Python, C++, JavaScript, Kotlin  
-**Frameworks & Tools:** Spring Boot, React, Django, Flask, Node.js  
+**Frameworks & Tools:** Spring Boot, React, Django, Node.js  
 **Cybersecurity Tools:** Burp Suite, Wireshark, Nmap, TryHackMe Labs  
-**Cloud:** AWS, Azure, GCP  
+**Cloud:** Microsoft Azure  
 **Databases:** MySQL, MongoDB, Oracle  
 **Other Skills:** Machine Learning, Git, Docker
 
