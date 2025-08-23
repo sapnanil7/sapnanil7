@@ -3,8 +3,6 @@
 💻 **Cybersecurity Enthusiast | Full-Stack Developer | ML Explorer**  
 🔐 Passionate about building secure, scalable, and innovative solutions.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/4479116.png)](https://tryhackme.com/p/4479116)
-
 ---
 
 ## 🚀 About Me
