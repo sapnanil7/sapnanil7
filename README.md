@@ -3,6 +3,8 @@
 💻 **Cybersecurity Enthusiast | Full-Stack Developer | ML Explorer**  
 🔐 Passionate about building secure, scalable, and innovative solutions.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4479116" style='border:none;'></iframe>
+
 ---
 
 ## 🚀 About Me
